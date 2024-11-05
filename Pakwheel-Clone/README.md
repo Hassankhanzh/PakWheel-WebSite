@@ -1,2 +1,0 @@
-# Pakwheel Clone
- Pakwheel
